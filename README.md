@@ -36,10 +36,7 @@ graph TD
     style F fill:#bbf,stroke:#333,stroke-width:2px
     style G fill:#bfb,stroke:#333,stroke-width:2px
 ```
-
----
-
-## ⏱️ Latency & Time-of-Flight Formalisms
+-----## ⏱️ Latency & Time-of-Flight Formalisms
 
 The total access latency ($\tau_{total}$) of the CAM-PRAM cell architecture is completely decoupled from the $RC$ time constants (capacitive charging constraints) inherent to electrical DRAM. Total latency is defined as:
 
